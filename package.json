@@ -1,6 +1,6 @@
 {
   "name": "example-scss-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple example of using scss lint with a gulp",
   "main": "index.js",
   "scripts": {
