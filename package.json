@@ -1,6 +1,6 @@
 {
   "name": "example-scss-lint",
-  "version": "1.2.14",
+  "version": "1.2.15",
   "description": "A simple example of using scss lint with a gulp",
   "main": "index.js",
   "scripts": {
@@ -24,15 +24,14 @@
   },
   "homepage": "https://github.com/superrosko/example-scss-lint#readme",
   "devDependencies": {
-    "@babel/cli": "^7.12.8",
-    "@babel/core": "^7.12.9",
-    "@babel/node": "^7.12.6",
-    "@babel/preset-env": "^7.12.7",
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "gulp": "^4.0.2",
     "gulp-stylelint": "^13.0.0",
     "stylelint": "^13.8.0",
     "stylelint-config-recommended-scss": "^4.2.0",
-    "stylelint-scss": "^3.18.0",
-    "yargs-parser": "^20.2.4"
+    "stylelint-scss": "^3.18.0"
   }
 }
